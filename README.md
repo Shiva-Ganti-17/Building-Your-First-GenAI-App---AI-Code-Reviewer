@@ -11,6 +11,11 @@ Improve Code Quality: Ensure your code is error-free with AI assistance.
 Learn from Mistakes: Understand common coding errors and how to avoid them in the future.
 
 
+## Technologies Used
+
+- Python
+- Streamlit
+
 
 
 
